@@ -27,6 +27,11 @@
 - `references/`：`platforms.md`(六平台规格) · `compliance.md`(限流红线) · `output-templates.md`(报告模板) · `transcription.md`(转录流程) · `sensitive_words.txt`(敏感词库)
 - `scripts/`：`sensitive_check.py` · `setup_transcribe.py` · `transcribe.py`
 
+## ClawHub 类目
+
+- 类目（categories）：`creative` —— 创意创作（视频 / 写作）
+- 主题（topics）：短视频、视频拆解、脚本创作、内容运营
+
 ## 说明
 
 - 敏感词库**非穷尽**，请按自身类目补充高频风险词。
