@@ -1,4 +1,4 @@
-# viral-video-deconstructor
+# 🎬 爆款短视频拆解
 
 多平台爆款短视频拆解与原创改写 Skill。覆盖 **抖音 / 快手 / YouTube / 哔哩哔哩 / 微信视频号 / 小红书**。
 
